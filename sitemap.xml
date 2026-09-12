@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://seikatsu-money.github.io/</loc></url>
-<url><loc>https://seikatsu-money.github.io/tools/takehome.html</loc></url>
-<url><loc>https://seikatsu-money.github.io/tools/rent.html</loc></url>
-<url><loc>https://seikatsu-money.github.io/tools/living-alone.html</loc></url>
-<url><loc>https://seikatsu-money.github.io/tools/car-cost.html</loc></url>
-<url><loc>https://seikatsu-money.github.io/tools/food-budget.html</loc></url>
-<url><loc>https://seikatsu-money.github.io/tools/fixed-cost.html</loc></url>
-<url><loc>https://seikatsu-money.github.io/tools/savings.html</loc></url>
-<url><loc>https://seikatsu-money.github.io/tools/couple-cost.html</loc></url>
-<url><loc>https://seikatsu-money.github.io/tools/child-cost.html</loc></url>
-<url><loc>https://seikatsu-money.github.io/tools/monthly-usable.html</loc></url>
-<url><loc>https://seikatsu-money.github.io/about.html</loc></url>
-<url><loc>https://seikatsu-money.github.io/privacy.html</loc></url>
-<url><loc>https://seikatsu-money.github.io/terms.html</loc></url>
-<url><loc>https://seikatsu-money.github.io/cookie.html</loc></url>
-<url><loc>https://seikatsu-money.github.io/contact.html</loc></url>
+  <url><loc>https://seikatsu-money.github.io/</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://seikatsu-money.github.io/tools/takehome.html</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://seikatsu-money.github.io/tools/rent.html</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://seikatsu-money.github.io/tools/living-alone.html</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://seikatsu-money.github.io/tools/car-cost.html</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://seikatsu-money.github.io/tools/food-budget.html</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://seikatsu-money.github.io/tools/fixed-cost.html</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://seikatsu-money.github.io/tools/savings.html</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://seikatsu-money.github.io/tools/couple-cost.html</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://seikatsu-money.github.io/tools/child-cost.html</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://seikatsu-money.github.io/tools/monthly-usable.html</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://seikatsu-money.github.io/about.html</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://seikatsu-money.github.io/methodology.html</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://seikatsu-money.github.io/privacy.html</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://seikatsu-money.github.io/terms.html</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://seikatsu-money.github.io/cookie.html</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://seikatsu-money.github.io/contact.html</loc><lastmod>2026-09-12</lastmod></url>
 </urlset>
